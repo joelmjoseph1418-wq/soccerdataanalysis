@@ -4,7 +4,6 @@ A Python project exploring associations between possession, shots, fouls, and so
 
 **[Explore the Live Dashboard](https://soccerdataanalysis.streamlit.app/)**
 
-![Soccer statistics dashboard](dashboard.png)
 
 ## Project Overview
 
